@@ -12,4 +12,9 @@ public struct NumbersA {
     {
         return false;
     }
+    
+    public func NoMoreNumbersForYou()->Bool
+    {
+        return false;
+    }
 }

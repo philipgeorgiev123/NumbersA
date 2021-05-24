@@ -1,6 +1,4 @@
 public struct NumbersA {
-    var text = "Hello, World!"
-    
     public init () {
         
     }

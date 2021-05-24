@@ -9,4 +9,9 @@ public struct NumbersA {
     {
         return true;
     }
+    
+    public func GotMoreNumbers()->Bool
+    {
+        return false;
+    }
 }
